@@ -5,3 +5,5 @@ Le but de ce programme est de pouvoir afficher le plus d'objets possible à l'é
    ## NB
     - Version multi-threadée
     - Il n'y a pas encore une interface graphique d'implémentée.
+
+### Status du projet - Terminé
