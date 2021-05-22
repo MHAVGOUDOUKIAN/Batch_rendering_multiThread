@@ -8,3 +8,4 @@ Le but de ce programme est de pouvoir afficher le plus d'objets possible à l'é
 |**Touche**| **Action**|
 |------|------|
 |**Gauche**| Générer un objet|
+|**Echap**| Quitter le programme|
