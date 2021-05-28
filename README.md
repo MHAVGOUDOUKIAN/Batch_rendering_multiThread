@@ -1,4 +1,4 @@
-# Batch-rendering-SFML
+# _Batch-rendering-SFML_
 
 Le but de ce programme est de pouvoir afficher le plus d'objets possible à l'écran avec un seul appel à la fonction draw() à chaque frame.
 
